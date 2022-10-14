@@ -1,0 +1,716 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.kiri {
+    width: 80%;
+    /* padding-bottom: 20px; */
+    background-color: #0D4A3E;
+}
+nav {
+    display: flex;
+}
+nav .img1 {
+    margin-left: 80px;
+}
+
+nav .img2 {
+    margin-left: 238.5px;
+}
+
+ul  {
+    display: flex;
+    
+    margin-left: 175px;
+}
+
+ul li {
+   margin: 27px;
+    list-style-type: none;
+    color: white;
+    font-family: 'regular';
+}
+
+.div1 {
+    font-size: 75px;
+    font-family:  'bold';
+    color: #ffffff;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.div2 {
+    font-size: 20px;
+    font-family: 'regular';
+    margin-bottom: 10px;
+    margin-left: 80px;
+    color: #D1D5DB;
+}
+
+.div3 {
+    display: flex;
+}
+
+span {
+    color: #FFA824;
+}
+
+.button1 { 
+    justify-content: center;
+    margin-top: 42px;
+    margin-left: 80px;
+}
+.button2 {
+    width: 164px;
+    height: 60px;
+    background-color: #FFA824;
+    font-family: 'medium';
+    font-size: 18px;
+    color: white;
+    justify-content: center; 
+    display: flex;    
+}
+
+.button3 {
+    margin-top: 30px;
+    display: flex;
+}
+.button3 p {
+    color: white;
+    padding-top: 70px;
+    padding-left: 5px;
+    font-family: 'regular';
+}
+
+.button4 {
+    width: 164px;
+    height: 60px;
+    background-color: #FFA824;
+    border: none;
+    align-items: center;
+}
+
+.button5 {
+    width: 179px;
+    height: 60px;
+    background-color: #FFA824;
+    border: none;
+    align-items: center;
+}
+
+.img3 {
+   margin-right: -510px;
+   margin-left: 100px;
+   margin-top: 50px;
+}
+
+.img4{
+   margin-left: 50px;
+}
+
+.img5 {
+    display: flex;
+    position: relative;
+    left: 1240px;
+    bottom: 30px 
+}
+
+.img6 {
+    display: flex;
+    margin: auto;
+}
+
+.img7 {
+    margin-top: 230px;
+    margin-right: 100px;
+}
+
+.img10 {
+    position: relative;
+    left: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.baris3 .img10 {
+    display: flex;
+}
+
+.garis {
+    width: 125px;
+    height:4px;
+    background-color: #D1D5DB;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 42px
+}
+
+.garis1 {
+    background-color: #FFA824 ;
+    width: 40px;
+    height: 4px;
+}
+
+.p01 {
+    font-size: 26px;
+    font-family: 'semibold';
+    color: #07251F;
+    
+}
+
+.p05  {
+    font-size:26px;
+    font-family: 'semibold';
+    color: #D1D5DB;
+}
+
+.baris1 {
+    display: flex;
+    margin-top: 10px;
+}
+
+.baris2 {
+    margin-top: 170px;
+    margin-right: 50px;
+}
+
+.baris3 {
+    display: flex;
+    margin-top: 150px;
+    
+}
+
+.baris4 {
+    margin-left: 80px;
+}
+
+.p1 {
+    color: #07251F;
+    font-family: 'bold';
+    font-weight: 600;
+    font-size: 52px;
+}
+
+.p2 {
+    color: #6B7280;
+    font-family: 'regular';
+    font-size: 16px;    
+}
+
+.p3 {
+    font-family: 'medium';
+    font-size: 18px;
+    color: #ffffff;
+    margin-left: 18px;
+    display: flex; 
+    align-items: center;   
+}
+
+.p3 .img8 {
+    justify-content: center; 
+    display: flex;
+    margin-left: 5px;
+}
+
+.p11 {
+    columns: #07251F;
+    font-family: 'bold';
+    font-size: 40px;
+}
+
+.p22 {
+    font-family: 'regular';
+    font-size:18px;
+    color: #6B7280;
+}
+
+.p33{
+    font-family: 'medium';
+    font-size: 18px;
+    color: #ffffff;
+    margin-left: 18px;
+    display: flex; 
+    align-items: center;  
+}
+
+.p33 .img9 {
+    justify-content: center; 
+    display: flex;
+    margin-left: 5px;
+}
+
+.img11 {
+    display: flex;
+    position: relative;
+    left: 640px;
+    top: -190px;
+    
+}
+
+.p011 {
+        font-size: 26px;
+        font-family: 'semibold';
+        color: #07251F;
+}
+
+.p055 {
+    font-size:26px;
+    font-family: 'semibold';
+    color: #D1D5DB;
+}
+
+.garis5 {
+    width: 125px;
+    height:4px;
+    background-color: #D1D5DB;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 42px
+}
+
+.garis6{
+    background-color: #FFA824 ;
+    width: 40px;
+    height: 4px;
+}
+
+.gambar1{
+    position: relative;
+    bottom: 133px;
+    left: 24px;
+}
+
+.gambar2{
+    position: relative;
+    bottom: 133px;
+    left: 24px;
+}
+
+.gambar3{
+    position: relative;
+    bottom: 133px;
+    left: 24px;
+}
+
+
+.ukuran1 {
+    color: #ffffff;
+    font-family: 'semibold';
+    font-size: 24px;
+}
+
+.ukuran2 {
+    color: #D1D5DB;
+    font-family: 'regular';
+    font-size: 16px;
+    position: relative;
+    bottom: 20px;
+}
+
+.gambar4 {
+    position: relative;
+    left: 90px;
+    bottom: 255px;
+}
+
+.persegipanjang {
+    position: absolute;
+    width: 468px;
+    height: 212px;
+    left: 230px;
+    top: 461.7px;
+    background-color: #FFFFFF;
+    margin-top: -260px;
+}
+
+.text1 {
+    font-size: 20px;
+    font-family: 'semibold';
+    color: #07251F;
+    text-align: left;
+    margin-left: 42px;
+    margin-top: 32px;
+}
+
+.play {
+    display: flex;
+}
+
+.play1 {
+    font-family: 'regular';
+    font-size: 16px;
+    color: #6B7280;
+    position: relative;
+    right: 10px;
+}
+
+.play2 {
+    position: relative;
+    left: 380px;
+}
+
+.kotak2 {
+    position: relative;
+    width: 597px;
+    height: 523px;
+    left: 0px;
+    top: 267px;
+    background-color:  #0D4A3E;
+}
+
+.kanan1 {
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.judul1 p{
+    color: #07251F;
+    font-size: 48px;
+    font-family: 'semibold';
+}
+
+.bagian1 {
+    margin-top: 30px;
+    display: flex;
+}
+
+.bagian2 {
+    margin-top: 30px;
+    display: flex;
+}
+
+.bagian3 {
+    margin-top: 30px;
+    display: flex;
+}
+
+.pbagian1 {
+    margin-top: -20px;
+    margin-left: 28px;
+}
+
+.pbagian2 {
+    margin-top: -20px;
+    margin-left: 28px;
+}
+
+.pbagian3 {
+    margin-top: -20px;
+    margin-left: 28px;
+}
+
+.no1 {
+    font-family: "semibold";
+    font-size: 18px;
+    color: #ffffff;
+    position: relative;
+    left: 22px;
+    bottom: 70px;
+}
+
+.no2 {
+    font-family: "semibold";
+    font-size: 18px;
+    color: #ffffff;
+    position: relative;
+    left: 22px;
+    bottom: 70px;
+}
+
+.no3 {
+    font-family: "semibold";
+    font-size: 18px;
+    color: #ffffff;
+    position: relative;
+    left: 22px;
+    bottom: 70px;
+}
+
+
+.paragraf1 {
+    font-family: 'semibold';
+    font-size: 26px;
+    columns: #07251F;
+}
+
+.paragraf2 {
+    font-family: 'regular';
+    font-size: 17px;
+    color: #6B7280;
+}
+
+.paragraf5 {
+    margin-top: 200px;
+}
+
+.pjg {
+    position: relative;
+    width: 1360px;
+    height: 530px;
+    left: 80px;
+    /* top: 3534px; */
+    background-color: #0D4A3E;
+    margin-left: 80px;
+}
+
+.imgpg5 {
+    position: relative;
+    left: 80px;
+    top: 90px;
+    display: flex;
+}
+
+.kotak3 {
+    Width :276px;
+    Height :121px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 369px;
+    left: 333px;
+}
+
+.kotak3 p {
+    position: relative;
+    left: 24px;
+    /* top: 31px;
+    bottom: 31px; */
+}
+
+.pkotak1 {
+    font-family: 'semibold';
+    font-size: 20px;
+    color: #07251F;
+    top: 13px;
+}
+
+.pkotak2 {
+    font-size: 18px;
+    font-family: 'regular';
+    color:#D1D5DB ;
+   bottom: 13px;
+}
+
+.dalem5 {
+    margin-left: 137px;
+    margin-top: -60px;
+}
+
+.paragraf6 {
+    font-family: 'semibold';
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+.paragraf7 {
+    font-family: 'regular';
+    font-size: 20px;
+    color: #D1D5DB;
+}
+
+.arrow {
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.panahkiri {
+    margin-right: 20px;
+}
+
+.panahkanan{
+    margin-left: 20px;
+}
+
+.panahatas {
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 15px;
+}
+
+.panahbawah {
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 30px;
+}
+
+/* .garis10 {
+    width: 741px;
+    height: 0px;
+    background-color: #D1D5DB;
+} */
+
+.paragraf9 {
+    margin-top: 190px;
+}
+
+.pparagraf66 {
+    display: flex;
+}
+
+.masuk1 {
+    position: relative;
+    /* bottom: 323px; */
+    /* left: 78px; */
+    right: 66px;
+}
+
+.gambar5 {
+    margin-bottom: 280px;
+}
+
+.pparagraf1 {
+    font-size: 52px;
+    font-family: 'semibold';
+    color: #07251F;
+}
+
+.pparagraf2 {
+    font-size: 20px;
+    font-family: 'regular';
+    color: #6B7280;
+    position: relative;
+    bottom: 40px;
+}
+
+.pparagraf3 {
+    font-size: 28px;
+    font-family: 'semibold';
+    color: #07251F;
+}
+
+.pparagraf4 {
+    font-size: 16px;
+    font-family: 'regular';
+    color: #6B7280;
+}
+
+.pparagraf5 {
+    font-size: 28px;
+    font-family: 'semibold';
+    color: #07251F;
+}
+
+.pkanan {
+    margin-top: 38px;
+}
+
+.last {
+    margin-top: 162px;
+    background-color: #0D4A3E;
+    width: 100%;
+    height: 695px;
+   display: flex;
+   padding-top: 181px;
+}
+
+.last1 {
+    margin-left: 80px;
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+}
+
+.last2 {
+    margin-left: 58px;
+}
+
+.last3 {
+    margin-left: 46px;
+}
+
+.last4 {
+    margin-left: 46px;
+}
+
+.last5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pparagraff5 {
+    margin-left: 58px;
+}
+
+.sosmed {
+    margin-top: 52px;
+}
+
+.sosmed2 {
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.pparagraff1 {
+    font-size: 30px;
+    font-family: 'semibold';
+    color: #FFFFFF;
+    position: relative;
+    left: 10px;
+}
+
+.pparagraff2 {
+    font-size: 18px;
+    font-family: 'regular';
+    color: #D1D5DB;
+}
+
+.pparagraff3 {
+    font-size: 24px;
+    font-family: 'semibold';
+    color: #FFFFFF;
+}
+
+.pparagraff4 {
+    font-size: 18px;
+    font-family: 'regular';
+    color: #D1D5DB;
+}
+
+.pparagraff6 {
+    font-family: 'regular';
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.pparagraff7 {
+    font-family: 'semibold';
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.garis9 {
+    position: absolute;
+    margin-top: 580px;
+    margin-left: 50px;
+    width: 1200px;
+    height: 1px;
+    background-color: #9CA3AF;
+    text-align: center;
+}
+
+
+
+@font-face {
+font-family: "regular";
+    src: url(font/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: "bold";
+    src: url(font/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "medium";
+    src: url(font/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: "semibold";
+    src: url(font/Poppins-SemiBold.ttf);
+}
+
+
+/* .kanan {
+    width: 20%;
+    height: 1024px;
+} */
